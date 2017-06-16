@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatriculaAluno", "MatriculaAluno\MatriculaAluno.csproj", "{09AA3B25-B14C-4F91-BFD0-40258E5BABA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatriculaAlunoVersionTwo", "MatriculaAlunoVersionTwo\MatriculaAlunoVersionTwo.csproj", "{8C0CCE49-8FAA-4FD1-A652-620EA48D8ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoPesoIdeal", "CalculoPesoIdeal\CalculoPesoIdeal.csproj", "{7DC461BA-0651-43B2-8F41-C77239130B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculodeSalario", "CalculodeSalario\CalculodeSalario.csproj", "{59352B6C-BDA2-4BC6-A592-5779A05AEBED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AA3B25-B14C-4F91-BFD0-40258E5BABA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AA3B25-B14C-4F91-BFD0-40258E5BABA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AA3B25-B14C-4F91-BFD0-40258E5BABA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AA3B25-B14C-4F91-BFD0-40258E5BABA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0CCE49-8FAA-4FD1-A652-620EA48D8ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0CCE49-8FAA-4FD1-A652-620EA48D8ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0CCE49-8FAA-4FD1-A652-620EA48D8ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0CCE49-8FAA-4FD1-A652-620EA48D8ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC461BA-0651-43B2-8F41-C77239130B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC461BA-0651-43B2-8F41-C77239130B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC461BA-0651-43B2-8F41-C77239130B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC461BA-0651-43B2-8F41-C77239130B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59352B6C-BDA2-4BC6-A592-5779A05AEBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59352B6C-BDA2-4BC6-A592-5779A05AEBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59352B6C-BDA2-4BC6-A592-5779A05AEBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59352B6C-BDA2-4BC6-A592-5779A05AEBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
