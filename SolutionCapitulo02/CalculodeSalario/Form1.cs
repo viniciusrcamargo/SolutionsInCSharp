@@ -16,6 +16,8 @@ namespace CalculodeSalario
         double horasTrabalhadas = 0, gratificacao;
         double coeficiente = 0, imposto = 0, salarioLiquido;
 
+        
+
         public FrmCalculodeSalario()
         {
             InitializeComponent();

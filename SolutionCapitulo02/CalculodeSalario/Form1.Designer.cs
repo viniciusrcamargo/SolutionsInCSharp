@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.tbSalMinimo = new System.Windows.Forms.TextBox();
@@ -42,6 +43,7 @@
             this.lblSituacao = new System.Windows.Forms.Label();
             this.btnCalcular = new System.Windows.Forms.Button();
             this.lbResultado = new System.Windows.Forms.ListBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.grpTurno.SuspendLayout();
             this.gbCategoria.SuspendLayout();
             this.SuspendLayout();
@@ -66,10 +68,13 @@
             // 
             // tbSalMinimo
             // 
+            this.tbSalMinimo.BackColor = System.Drawing.Color.Yellow;
+            this.tbSalMinimo.ForeColor = System.Drawing.Color.Blue;
             this.tbSalMinimo.Location = new System.Drawing.Point(109, 14);
             this.tbSalMinimo.Name = "tbSalMinimo";
             this.tbSalMinimo.Size = new System.Drawing.Size(100, 20);
             this.tbSalMinimo.TabIndex = 2;
+            this.toolTip1.SetToolTip(this.tbSalMinimo, "Informe o valor atual do salário mínimo");
             // 
             // tbHorasTrab
             // 
@@ -159,10 +164,12 @@
             // lblSituacao
             // 
             this.lblSituacao.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblSituacao.Font = new System.Drawing.Font("Courier New", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSituacao.Location = new System.Drawing.Point(14, 249);
             this.lblSituacao.Name = "lblSituacao";
             this.lblSituacao.Size = new System.Drawing.Size(322, 23);
             this.lblSituacao.TabIndex = 7;
+            this.lblSituacao.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnCalcular
             // 
@@ -178,9 +185,17 @@
             // 
             this.lbResultado.FormattingEnabled = true;
             this.lbResultado.Location = new System.Drawing.Point(14, 110);
+            this.lbResultado.MultiColumn = true;
             this.lbResultado.Name = "lbResultado";
+            this.lbResultado.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
             this.lbResultado.Size = new System.Drawing.Size(403, 134);
             this.lbResultado.TabIndex = 9;
+            // 
+            // toolTip1
+            // 
+            this.toolTip1.IsBalloon = true;
+            this.toolTip1.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
+            this.toolTip1.ToolTipTitle = "Ajuda";
             // 
             // FrmCalculodeSalario
             // 
@@ -224,6 +239,7 @@
         private System.Windows.Forms.Label lblSituacao;
         private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.ListBox lbResultado;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 
