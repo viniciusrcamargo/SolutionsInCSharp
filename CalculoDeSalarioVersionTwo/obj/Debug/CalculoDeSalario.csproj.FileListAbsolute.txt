@@ -1,0 +1,9 @@
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\obj\Debug\CalculoDeSalario.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\obj\Debug\CalculoDeSalario.FrmCalculoDeSalario.resources
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\obj\Debug\CalculoDeSalario.Properties.Resources.resources
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\obj\Debug\CalculoDeSalario.csproj.GenerateResource.Cache
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\bin\Debug\CalculoDeSalario.exe.config
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\bin\Debug\CalculoDeSalario.exe
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\bin\Debug\CalculoDeSalario.pdb
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\obj\Debug\CalculoDeSalario.exe
+C:\Users\Vinicius\documents\visual studio 2017\Projects\SolutionChapter02\CalculoDeSalario\obj\Debug\CalculoDeSalario.pdb
