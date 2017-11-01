@@ -1,0 +1,10 @@
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.exe.config
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.exe
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.FrmConsEnergiaCond.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.Properties.Resources.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.exe
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.pdb
