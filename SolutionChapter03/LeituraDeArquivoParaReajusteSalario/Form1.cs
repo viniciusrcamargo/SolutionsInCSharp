@@ -35,14 +35,37 @@ namespace LeituraDeArquivoParaReajusteSalario
             }
         }
 
-        private void TotalizarValores(IList<Funcionario> list)
+        private void TotalizarValores(IList<Funcionario> dadosLidos)
         {
-            //ler e completar
+            double totalSemReajuste = 0, totalComReajuste = 0;
+            foreach(var funcionario in dadosLidos)
+            {
+                totalSemReajuste += funcionario.salario;
+                totalComReajuste += funcionario.NovoSalario;
+            }
+            double percentualRejuste = (totalComReajuste - totalSemReajuste) * 100 / totalSemReajuste;
+            lblTotalSemReajuste.Text = string.Format("{0:c}", totalSemReajuste);
+            lblTotalComReajuste.Text = string.Format("{0:c}", totalComReajuste);
+            lblPercentualReajuste.Text = string.Format("{0:c%}", percentualRejuste);
         }
 
         private void ProcessarArquivo(string text)
         {
-            //ler e completar
+            repositorio.ObterTodos().Clear();
+            string linhaLida;
+            var arquivo = new System.IO.StreamReader(@text);
+
+            while((linhaLida = arquivo.ReadLine()) != null)
+            {
+                var dadosLidos = linhaLida.Split(';');
+                var funcionario = new Funcionario
+                {
+                    Codigo = Convert.ToInt32(dadosLidos[0]),
+                    salario = Convert.ToDouble(dadosLidos[1])
+                };
+                repositorio.Inserir(funcionario);
+                arquivo.Close();
+            }
         }
     }
 }
