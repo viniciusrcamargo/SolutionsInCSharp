@@ -46,7 +46,7 @@ namespace LeituraDeArquivoParaReajusteSalario
             double percentualRejuste = (totalComReajuste - totalSemReajuste) * 100 / totalSemReajuste;
             lblTotalSemReajuste.Text = string.Format("{0:c}", totalSemReajuste);
             lblTotalComReajuste.Text = string.Format("{0:c}", totalComReajuste);
-            lblPercentualReajuste.Text = string.Format("{0:c%}", percentualRejuste);
+            lblPercentualReajuste.Text = string.Format("{0:n}%", percentualRejuste);
         }
 
         private void ProcessarArquivo(string text)
@@ -64,8 +64,8 @@ namespace LeituraDeArquivoParaReajusteSalario
                     salario = Convert.ToDouble(dadosLidos[1])
                 };
                 repositorio.Inserir(funcionario);
-                arquivo.Close();
             }
+            arquivo.Close();
         }
     }
 }
