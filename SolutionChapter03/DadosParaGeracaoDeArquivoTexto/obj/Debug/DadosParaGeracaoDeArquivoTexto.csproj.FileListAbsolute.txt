@@ -1,0 +1,10 @@
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\obj\Debug\DadosParaGeracaoDeArquivoTexto.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\obj\Debug\DadosParaGeracaoDeArquivoTexto.FrmDadosParaGeracaoArqTexto.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\obj\Debug\DadosParaGeracaoDeArquivoTexto.Properties.Resources.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\obj\Debug\DadosParaGeracaoDeArquivoTexto.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\obj\Debug\DadosParaGeracaoDeArquivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\bin\Debug\DadosParaGeracaoDeArquivoTexto.exe.config
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\bin\Debug\DadosParaGeracaoDeArquivoTexto.exe
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\bin\Debug\DadosParaGeracaoDeArquivoTexto.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\obj\Debug\DadosParaGeracaoDeArquivoTexto.exe
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionChapter03\DadosParaGeracaoDeArquivoTexto\obj\Debug\DadosParaGeracaoDeArquivoTexto.pdb
