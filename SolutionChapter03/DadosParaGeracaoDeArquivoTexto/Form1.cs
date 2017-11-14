@@ -75,11 +75,31 @@ namespace DadosParaGeracaoDeArquivoTexto
         {
             StreamWriter wr = new StreamWriter(sfdGravarArquivos.FileName, true);
 
-            for (int j = 0; j < dgvLeitura.Rows.Count; j++){
+            for (int j = 0; j < (dgvLeitura.Rows.Count-1); j++){
                 wr.WriteLine(dgvLeitura.Rows[j].Cells[0].Value.ToString() + ";" +
                     dgvLeitura.Rows[j].Cells[1].Value.ToString());
             }
             wr.Close();
+        }
+
+        private bool validaDados()
+        {
+            int i = 0;
+            bool dadosValidados = true;
+            double stringToDouble;
+
+            do
+            {
+                if (string.IsNullOrWhiteSpace(dgvLeitura.Rows[i].Cells[0].Value.ToString()))
+                {
+                    dadosValidados = false;
+                }
+                if (!Double.TryParse(dgvLeitura.Rows[i].Cells[1].Value.ToString(), out stringToDouble))
+                {
+                    dadosValidados = false;
+                }
+            } while (++i < (dgvLeitura.Rows.Count-1));
+            return dadosValidados;
         }
     }
 }
