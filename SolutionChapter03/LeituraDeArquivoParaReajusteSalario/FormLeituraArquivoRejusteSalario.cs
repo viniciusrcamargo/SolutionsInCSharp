@@ -67,5 +67,7 @@ namespace LeituraDeArquivoParaReajusteSalario
             }
             arquivo.Close();
         }
+
+        
     }
 }

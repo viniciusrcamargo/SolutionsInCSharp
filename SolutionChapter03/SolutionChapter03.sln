@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoEnergiaCondominio", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeituraDeArquivoParaReajusteSalario", "LeituraDeArquivoParaReajusteSalario\LeituraDeArquivoParaReajusteSalario.csproj", "{8EF0CA80-396A-43A4-AB98-8A882E0EBBB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadosParaGeracaoDeArquivoTexto", "DadosParaGeracaoDeArquivoTexto\DadosParaGeracaoDeArquivoTexto.csproj", "{EFED720F-450A-42CA-A918-FDA7C5F32130}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8EF0CA80-396A-43A4-AB98-8A882E0EBBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EF0CA80-396A-43A4-AB98-8A882E0EBBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EF0CA80-396A-43A4-AB98-8A882E0EBBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFED720F-450A-42CA-A918-FDA7C5F32130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFED720F-450A-42CA-A918-FDA7C5F32130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFED720F-450A-42CA-A918-FDA7C5F32130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFED720F-450A-42CA-A918-FDA7C5F32130}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
