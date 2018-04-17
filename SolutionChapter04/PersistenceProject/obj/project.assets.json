@@ -2205,6 +2205,19 @@
             "rid": "aot"
           }
         }
+      },
+      "ModelProject/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10586",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ModelProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelProject.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0.10586/win10-arm": {
@@ -4500,6 +4513,19 @@
         },
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "ModelProject/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10586",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ModelProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelProject.dll": {}
         }
       }
     },
@@ -6833,6 +6859,19 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "ModelProject/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10586",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ModelProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelProject.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0.10586/win10-x64": {
@@ -9137,6 +9176,19 @@
         },
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "ModelProject/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10586",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ModelProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelProject.dll": {}
         }
       }
     },
@@ -11479,6 +11531,19 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "ModelProject/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10586",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ModelProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelProject.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0.10586/win10-x86": {
@@ -13783,6 +13848,19 @@
         },
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "ModelProject/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10586",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ModelProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelProject.dll": {}
         }
       }
     },
@@ -16125,6 +16203,19 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "ModelProject/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10586",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ModelProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelProject.dll": {}
+        }
       }
     }
   },
@@ -18422,7 +18513,7 @@
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/6.0.1": {
-      "sha512": "svqEclOg2g3pmsVen1/sCCsozefwISlHQcB/Y5yxqovG6tx+LIxN0XtGH4XSieLbf5PbzVIXmHoPPrWb0QhuaA==",
+      "sha512": "2RI4q8FfR0S50V4YdZIZtzfyA2Bo4+jJHQXG+TDN7D4mPrFiIswIq8HVeDWS9xZsDwz23z7d/T2qi4rZa60Sig==",
       "type": "package",
       "path": "microsoft.netcore.universalwindowsplatform/6.0.1",
       "files": [
@@ -25721,29 +25812,40 @@
         "system.xml.xmlserializer.4.0.11.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "ModelProject/1.0.0": {
+      "type": "project",
+      "path": "../ModelProject/ModelProject.csproj",
+      "msbuildProject": "../ModelProject/ModelProject.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.10586": [
-      "Microsoft.NETCore.UniversalWindowsPlatform >= 6.0.1"
+      "Microsoft.NETCore.UniversalWindowsPlatform >= 6.0.1",
+      "ModelProject >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vinicius\\.nuget\\packages\\": {}
+    "C:\\Users\\SuporteTi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\source\\repos\\SolutionChapter04\\PersistenceProject\\PersistenceProject.csproj",
+      "projectUniqueName": "C:\\Users\\SuporteTi\\Documents\\SolutionsInCSharp\\SolutionChapter04\\PersistenceProject\\PersistenceProject.csproj",
       "projectName": "PersistenceProject",
-      "projectPath": "C:\\Users\\Vinicius\\source\\repos\\SolutionChapter04\\PersistenceProject\\PersistenceProject.csproj",
-      "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\source\\repos\\SolutionChapter04\\PersistenceProject\\obj\\",
+      "projectPath": "C:\\Users\\SuporteTi\\Documents\\SolutionsInCSharp\\SolutionChapter04\\PersistenceProject\\PersistenceProject.csproj",
+      "packagesPath": "C:\\Users\\SuporteTi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SuporteTi\\Documents\\SolutionsInCSharp\\SolutionChapter04\\PersistenceProject\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\SuporteTi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.10586"
@@ -25754,7 +25856,11 @@
       },
       "frameworks": {
         "uap10.0.10586": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\SuporteTi\\Documents\\SolutionsInCSharp\\SolutionChapter04\\ModelProject\\ModelProject.csproj": {
+              "projectPath": "C:\\Users\\SuporteTi\\Documents\\SolutionsInCSharp\\SolutionChapter04\\ModelProject\\ModelProject.csproj"
+            }
+          }
         }
       }
     },

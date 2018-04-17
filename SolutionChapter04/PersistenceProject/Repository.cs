@@ -34,5 +34,49 @@ namespace PersistenceProject
             this.fornecedores[this.fornecedores.IndexOf(fornecedor)] = fornecedor;
             return fornecedor;
         }
+
+        public Produto insertProduto(Produto produto)
+        {
+            this.produto.Add(produto);
+            return produto;
+        }
+
+        public void removerProduto(Produto produto)
+        {
+            this.produto.Remove(produto);
+        }
+
+        public IList<Produto> GetProduto()
+        {
+            return this.produto;
+        }
+
+        public Produto UpdateProduto(Produto produto)
+        {
+            this.produto[this.produto.IndexOf(produto)] = produto;
+            return produto;
+        }
+
+        public NotaEntrada insertNotaEntrada(NotaEntrada notaEntrada)
+        {
+            this.notaEntrada.Add(notaEntrada);
+            return notaEntrada;
+        }
+
+        public void removerNotaEntrada(NotaEntrada notaEntrada)
+        {
+            this.fornecedores.Remove(notaEntrada);
+        }
+
+        public IList<NotaEntrada> GetNotaEntrada()
+        {
+            return this.notaEntrada;
+        }
+
+        public NotaEntrada UpdateNotaEntrada(NotaEntrada notaEntrada)
+        {
+            this.notaEntrada[this.notaEntrada.IndexOf(notaEntrada)] = notaEntrada;
+            return notaEntrada;
+        }
     }
 }

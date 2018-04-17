@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace ModelProject
 {
     public class NotaEntrada
@@ -24,7 +20,7 @@ namespace ModelProject
         {
             if (!this.Produtos.Contains(produto))
             {
-                this.Produtos.Add(produto)
+                this.Produtos.Add(produto);
             }
         }
 
