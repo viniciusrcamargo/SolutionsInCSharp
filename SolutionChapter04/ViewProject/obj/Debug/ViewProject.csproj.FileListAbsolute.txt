@@ -3,3 +3,8 @@ C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.Properties.Resources.resources
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.csproj.GenerateResource.cache
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.csproj.CoreCompileInputs.cache
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\ViewProject.exe.config
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\ViewProject.exe
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\ViewProject.pdb
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.exe
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.pdb

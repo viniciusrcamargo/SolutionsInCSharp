@@ -7,7 +7,7 @@ using ModelProject;
 
 namespace PersistenceProject
 {
-    class Repository
+    public class Repository
     {
         private IList<Fornecedor> fornecedores = new List<Fornecedor>();
         private IList<Produto> produto = new List<Produto>();
@@ -24,7 +24,7 @@ namespace PersistenceProject
             this.fornecedores.Remove(fornecedor);
         }
 
-        public IList<Fornecedor> GetFornecedor()
+        public IList<Fornecedor> GetAllFornecedor()
         {
             return this.fornecedores;
         }
@@ -46,7 +46,7 @@ namespace PersistenceProject
             this.produto.Remove(produto);
         }
 
-        public IList<Produto> GetProduto()
+        public IList<Produto> GetAllProduto()
         {
             return this.produto;
         }
@@ -65,10 +65,10 @@ namespace PersistenceProject
 
         public void removerNotaEntrada(NotaEntrada notaEntrada)
         {
-            this.fornecedores.Remove(notaEntrada);
+            this.notaEntrada.Remove(notaEntrada);
         }
 
-        public IList<NotaEntrada> GetNotaEntrada()
+        public IList<NotaEntrada> GetAllNotaEntrada()
         {
             return this.notaEntrada;
         }
