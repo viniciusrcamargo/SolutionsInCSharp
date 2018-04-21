@@ -1,0 +1,9 @@
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\bin\Release\LotacaoPessoas.exe.config
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\bin\Release\LotacaoPessoas.exe
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\bin\Release\LotacaoPessoas.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\obj\Release\LotacaoPessoas.FrmLotacaoPessoas.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\obj\Release\LotacaoPessoas.Properties.Resources.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\obj\Release\LotacaoPessoas.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\obj\Release\LotacaoPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\obj\Release\LotacaoPessoas.exe
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\LotacaoPessoas\LotacaoPessoas\obj\Release\LotacaoPessoas.pdb

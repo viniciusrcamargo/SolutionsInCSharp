@@ -30,21 +30,19 @@
         {
             this.lblTitulo = new System.Windows.Forms.Label();
             this.lblLotacao = new System.Windows.Forms.Label();
-            this.pbLogo2 = new System.Windows.Forms.PictureBox();
-            this.pbLogo = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pbLogo2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbLogo)).BeginInit();
             this.SuspendLayout();
             // 
             // lblTitulo
             // 
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 60F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(261, 50);
+            this.lblTitulo.Location = new System.Drawing.Point(533, 52);
+            this.lblTitulo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(774, 91);
+            this.lblTitulo.Size = new System.Drawing.Size(975, 113);
             this.lblTitulo.TabIndex = 0;
             this.lblTitulo.Text = "Lotação de Pessoas";
+            this.lblTitulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblLotacao
             // 
@@ -52,51 +50,29 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblLotacao.Font = new System.Drawing.Font("Arial Narrow", 300F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLotacao.Location = new System.Drawing.Point(60, 177);
+            this.lblLotacao.Location = new System.Drawing.Point(80, 218);
+            this.lblLotacao.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblLotacao.Name = "lblLotacao";
             this.lblLotacao.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblLotacao.Size = new System.Drawing.Size(1025, 374);
+            this.lblLotacao.Size = new System.Drawing.Size(1367, 460);
             this.lblLotacao.TabIndex = 3;
             this.lblLotacao.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // pbLogo2
-            // 
-            this.pbLogo2.BackgroundImage = global::LotacaoPessoas.Properties.Resources.festajunina;
-            this.pbLogo2.Location = new System.Drawing.Point(1067, 38);
-            this.pbLogo2.Name = "pbLogo2";
-            this.pbLogo2.Size = new System.Drawing.Size(150, 127);
-            this.pbLogo2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbLogo2.TabIndex = 2;
-            this.pbLogo2.TabStop = false;
-            // 
-            // pbLogo
-            // 
-            this.pbLogo.BackgroundImage = global::LotacaoPessoas.Properties.Resources.festajunina;
-            this.pbLogo.Location = new System.Drawing.Point(60, 38);
-            this.pbLogo.Name = "pbLogo";
-            this.pbLogo.Size = new System.Drawing.Size(150, 127);
-            this.pbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbLogo.TabIndex = 1;
-            this.pbLogo.TabStop = false;
-            // 
             // FrmLotacaoPessoas
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1097, 566);
+            this.ClientSize = new System.Drawing.Size(1463, 697);
             this.Controls.Add(this.lblLotacao);
-            this.Controls.Add(this.pbLogo2);
-            this.Controls.Add(this.pbLogo);
             this.Controls.Add(this.lblTitulo);
             this.KeyPreview = true;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmLotacaoPessoas";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lotação de Pessoas";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FrmLotacaoPessoas_KeyDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.FrmLotacaoPessoas_KeyUp);
-            ((System.ComponentModel.ISupportInitialize)(this.pbLogo2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -105,8 +81,6 @@
         #endregion
 
         private System.Windows.Forms.Label lblTitulo;
-        private System.Windows.Forms.PictureBox pbLogo;
-        private System.Windows.Forms.PictureBox pbLogo2;
         private System.Windows.Forms.Label lblLotacao;
     }
 }

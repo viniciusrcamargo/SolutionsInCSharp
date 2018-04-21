@@ -8,3 +8,13 @@ C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\bin
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\ViewProject.pdb
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.exe
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\ViewProject.dll.config
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\ViewProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\ViewProject.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.FormFornecedor.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.Properties.Resources.resources
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.csproj.GenerateResource.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.pdb

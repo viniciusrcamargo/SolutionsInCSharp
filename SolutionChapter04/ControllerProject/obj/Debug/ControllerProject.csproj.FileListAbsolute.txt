@@ -1,2 +1,0 @@
-C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ControllerProject\obj\Debug\ControllerProject.csprojResolveAssemblyReference.cache
-C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ControllerProject\obj\Debug\ControllerProject.csproj.CoreCompileInputs.cache
