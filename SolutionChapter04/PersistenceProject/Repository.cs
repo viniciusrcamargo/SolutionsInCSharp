@@ -31,7 +31,7 @@ namespace PersistenceProject
 
         public Fornecedor UpdateFornecedor(Fornecedor fornecedor)
         {
-            this.fornecedores[this.fornecedores.IndexOf(fornecedor)] = fornecedor;
+            this.fornecedores[this.fornecedores.IndexOf(fornecedor)] = fornecedor;//erro aqui
             return fornecedor;
         }
 

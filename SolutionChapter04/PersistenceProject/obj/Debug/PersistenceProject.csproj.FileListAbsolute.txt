@@ -1,0 +1,9 @@
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\bin\Debug\PersistenceProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\bin\Debug\PersistenceProject.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\bin\Debug\ModelProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\bin\Debug\ModelProject.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\obj\Debug\PersistenceProject.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\obj\Debug\PersistenceProject.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\obj\Debug\PersistenceProject.csproj.CopyComplete
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\obj\Debug\PersistenceProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\PersistenceProject\obj\Debug\PersistenceProject.pdb

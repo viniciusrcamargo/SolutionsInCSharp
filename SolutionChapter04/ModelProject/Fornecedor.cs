@@ -11,5 +11,24 @@ namespace ModelProject
         public Guid id { get; set; }
         public string nome { get; set; }
         public string cnpj { get; set; }
+
+        protected bool Equals(Fornecedor other)
+        {
+            return id.Equals(other.id);
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (ReferenceEquals(null, obj))
+                return false;
+            if (ReferenceEquals(this, obj))
+                return true;
+            if (obj.GetType() != typeof(Fornecedor))
+                return false;
+
+            return base.Equals((Fornecedor) obj);
+        }
+
+
     }
 }

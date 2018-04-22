@@ -1,0 +1,11 @@
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\bin\Debug\ControllerProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\bin\Debug\ControllerProject.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\bin\Debug\ModelProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\bin\Debug\PersistenceProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\bin\Debug\ModelProject.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\bin\Debug\PersistenceProject.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\obj\Debug\ControllerProject.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\obj\Debug\ControllerProject.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\obj\Debug\ControllerProject.csproj.CopyComplete
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\obj\Debug\ControllerProject.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ControllerProject\obj\Debug\ControllerProject.pdb
