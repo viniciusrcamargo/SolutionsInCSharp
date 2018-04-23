@@ -61,6 +61,12 @@
     <Compile Include="FormFornecedor.Designer.cs">
       <DependentUpon>FormFornecedor.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormJanelaPrincipalcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJanelaPrincipalcs.Designer.cs">
+      <DependentUpon>FormJanelaPrincipalcs.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormNotaEntrada.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,10 +79,22 @@
     <Compile Include="FormProduto.Designer.cs">
       <DependentUpon>FormProduto.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormRegistroNotaEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistroNotaEntrada.Designer.cs">
+      <DependentUpon>FormRegistroNotaEntrada.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormFornecedor.resx">
       <DependentUpon>FormFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJanelaPrincipalcs.resx">
+      <DependentUpon>FormJanelaPrincipalcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistroNotaEntrada.resx">
+      <DependentUpon>FormRegistroNotaEntrada.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

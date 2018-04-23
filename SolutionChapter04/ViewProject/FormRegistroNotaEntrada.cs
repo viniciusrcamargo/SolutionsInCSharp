@@ -7,18 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ControllerProject;
 
 namespace ViewProject
 {
-    public partial class FormProduto : Form
+    public partial class FormRegistroNotaEntrada : Form
     {
-        private ProdutoController controller = new ProdutoController();
-
-        public FormProduto(ProdutoController controller)
+        public FormRegistroNotaEntrada()
         {
             InitializeComponent();
-            this.controller = controller;
         }
     }
 }

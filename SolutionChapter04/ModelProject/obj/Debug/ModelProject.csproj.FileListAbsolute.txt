@@ -4,3 +4,9 @@ C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\Soluti
 C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ModelProject\obj\Debug\ModelProject.dll
 C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ModelProject\obj\Debug\ModelProject.pdb
 C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\SolutionsInCSharp\SolutionChapter04\ModelProject\obj\Debug\ModelProject.csprojResolveAssemblyReference.cache
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ModelProject\bin\Debug\ModelProject.dll
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ModelProject\obj\Debug\ModelProject.csprojResolveAssemblyReference.cache
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ModelProject\obj\Debug\ModelProject.dll
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ModelProject\obj\Debug\ModelProject.pdb
