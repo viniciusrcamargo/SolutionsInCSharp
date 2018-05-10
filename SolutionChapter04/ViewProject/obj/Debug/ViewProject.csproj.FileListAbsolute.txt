@@ -122,3 +122,5 @@ C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\bin
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.FormJanelaPrincipalcs.resources
 C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.csproj.CopyComplete
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.FormRegistroNotaEntrada.resources
+C:\Users\SuporteTi\Documents\SolutionsInCSharp\SolutionChapter04\ViewProject\obj\Debug\ViewProject.FormProduto.resources

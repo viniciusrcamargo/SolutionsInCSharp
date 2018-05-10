@@ -20,5 +20,7 @@ namespace ViewProject
             InitializeComponent();
             this.controller = controller;
         }
+
+      
     }
 }
